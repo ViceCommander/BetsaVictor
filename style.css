@@ -52,3 +52,13 @@ footer{
   .dropdown:hover .dropbtn {
     background-color: #000000;
   }
+
+  .footer-columns {
+    display: flex;
+    color: white;
+}
+
+.footer-columns {
+    flex: 50%;
+    margin: 20px;
+}
