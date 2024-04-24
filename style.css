@@ -6,11 +6,15 @@ footer{
     background-color: rgb(0, 0, 0);
 }
 
-.red{
-    color: rgb(155, 55, 55)
+.post {
+    background-color: silver;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
 }
 
-.post {
+.post2 {
     background-color: silver;
     padding: 20px;
     border-radius: 10px;
