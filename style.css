@@ -10,6 +10,14 @@ footer{
     color: rgb(155, 55, 55)
 }
 
+.post {
+    background-color: silver;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
 .dropdown {
     position: relative;
     display: inline-block;
