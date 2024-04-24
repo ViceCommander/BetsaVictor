@@ -1,7 +1,11 @@
 header{
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
 }
 
 footer{
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
+}
+
+.slogan{
+    color: white;
 }
